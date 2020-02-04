@@ -35,6 +35,6 @@
     "eslint-watch": "^2.1.14",
     "npm-run-all": "^4.0.2",
     "webpack": "^2.4.1",
-    "webpack-dev-server": "^2.4.2"
+    "webpack-dev-server": ">=3.1.11"
   }
 }

@@ -31,10 +31,10 @@
     "babel-preset-stage-0": "^6.5.0",
     "babel-register": "^6.26.0",
     "imports-loader": "^0.6.5",
-    "eslint": "^3.5.0",
+    "eslint": ">=4.18.2",
     "eslint-watch": "^2.1.14",
     "npm-run-all": "^4.0.2",
     "webpack": "^2.4.1",
-    "webpack-dev-server": "^2.4.2"
+    "webpack-dev-server": ">=3.1.11"
   }
 }
